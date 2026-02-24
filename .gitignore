@@ -1,3 +1,10 @@
-__pycache__
-.env
-.learn
+venv/
+__pycache__/
+*.pyc
+*.h5
+*.keras
+.ipynb_checkpoints/
+dataset/
+train/
+*.jpg
+*.png
