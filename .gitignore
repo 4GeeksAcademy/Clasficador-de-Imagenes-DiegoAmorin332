@@ -8,3 +8,6 @@ dataset/
 train/
 *.jpg
 *.png
+._train
+._samplesubmission.cs
+sampleSubmission.csv
